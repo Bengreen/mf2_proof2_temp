@@ -3,6 +3,9 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { Test0Component } from './test0/test0.component';
+import { environment } from '../environments/environment';
+// '~shell/src/app/environments/environment';
+  // environments/environment';
 
 const routes: Routes = [
   {
@@ -18,7 +21,10 @@ const routes: Routes = [
         loadChildren: () =>
             loadRemoteModule({
                type: 'module',
-               remoteEntry: 'http://localhost:3000/remoteEntry.js',
+               remoteEntry: environment.mfePaths.mfe1,
+              //  'http://localhost:3000/remoteEntry.js',
+              // type: 'manifest',
+              // remoteName: 'mfe1',
                exposedModule: './Module'
            })
            .then(m => m.Mfe1benModule)
