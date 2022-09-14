@@ -5,7 +5,8 @@
 export const environment = {
   production: false,
   mfePaths: {
-    mfe1: 'http://localhost:3000/remoteEntry.js'
+    mfe1: 'http://localhost:3000/remoteEntry.js',
+    // mfe2: 'http://localhost:3001/remoteEntry.js',
   }
 };
 
