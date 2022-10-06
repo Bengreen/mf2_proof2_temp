@@ -12,6 +12,7 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { Test0Component } from './test0/test0.component';
+import { SharedModule } from 'shared';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { Test0Component } from './test0/test0.component';
     MatButtonModule,
     MatSidenavModule,
     MatIconModule,
-    MatListModule
+    MatListModule,
+    SharedModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

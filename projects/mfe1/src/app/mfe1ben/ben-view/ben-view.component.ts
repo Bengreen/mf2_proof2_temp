@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { SharedService } from 'shared';
 
 @Component({
   selector: 'app-ben-view',
@@ -7,9 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BenViewComponent implements OnInit {
 
-  constructor() { }
+  constructor(public myShared: SharedService) { }
 
   ngOnInit(): void {
+    console.log("accessing smarty from mfe", this.myShared.smartyTest());
   }
 
 }
