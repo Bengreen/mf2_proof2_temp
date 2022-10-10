@@ -1,0 +1,15 @@
+<p>d3sample works!</p>
+
+<mat-grid-list cols="1" rowHeight="100%">
+    <mat-grid-tile>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" #myChart  [attr.viewBox]="'-'+(margin.left)+' -'+(margin.top)+' '+ (margin.left+width+margin.right) +' '+(margin.top+height+margin.bottom)+''">
+            <g [attr.transform]="'translate('+(margin.left)+', '+(margin.top) +')'" #targetold>
+                <!-- <rect width="15" height="15" rx="5"></rect> -->
+            </g>
+            <g #target></g>
+            <!-- <rect [attr.width]="width" [attr.height]="height" />
+            <rect [attr.x]="-margin.left" [attr.y]="-margin.top" [attr.width]="margin.left" [attr.height]="margin.top" />
+            <rect [attr.x]="width" [attr.y]="height" [attr.width]="margin.right" [attr.height]="margin.bottom" /> -->
+        </svg>
+    </mat-grid-tile>
+</mat-grid-list>

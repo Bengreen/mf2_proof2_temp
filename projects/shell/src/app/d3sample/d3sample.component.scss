@@ -1,0 +1,19 @@
+svg {
+    background-color: lightblue;
+    rect {
+        fill: red;
+        stroke-width: 1;
+        stroke: black;
+    }
+    .bar {
+        fill: steelblue;
+    }
+
+    .bar:hover {
+        fill: brown;
+    }
+
+    .axis--x path {
+        display: none;
+    }
+}

@@ -4,6 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { Test0Component } from './test0/test0.component';
 import { environment } from '../environments/environment';
+import { D3sampleComponent } from './d3sample/d3sample.component';
 // '~shell/src/app/environments/environment';
   // environments/environment';
 
@@ -15,6 +16,10 @@ const routes: Routes = [
       {
         path: 'test0',
         component: Test0Component,
+      },
+      {
+        path: 'd3',
+        component: D3sampleComponent,
       },
       {
         path: 'mfe1',

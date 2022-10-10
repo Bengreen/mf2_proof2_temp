@@ -13,12 +13,15 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { Test0Component } from './test0/test0.component';
 import { SharedModule } from 'shared';
+import { D3sampleComponent } from './d3sample/d3sample.component';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    Test0Component
+    Test0Component,
+    D3sampleComponent
   ],
   imports: [
     BrowserModule,
@@ -31,6 +34,7 @@ import { SharedModule } from 'shared';
     MatIconModule,
     MatListModule,
     SharedModule,
+    MatGridListModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
