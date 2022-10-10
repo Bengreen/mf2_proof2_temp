@@ -1,0 +1,2319 @@
+[ {
+  "location" : {
+    "latitude" : "42.65546552",
+    "needs_recoding" : false,
+    "longitude" : "-74.01470616"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/8/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "830",
+  "category" : "State Park",
+  "y" : "42.65546552",
+  "name" : "John Boyd Thacher",
+  "beach" : "N",
+  "x" : "-74.01470616",
+  ":@computed_region_wbg7_3whc" : "1142",
+  ":@computed_region_kjdx_g34t" : "2030",
+  "county" : "Albany",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/128/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.49059902",
+    "needs_recoding" : false,
+    "longitude" : "-73.77652044"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "112",
+  "category" : "State Park",
+  "y" : "42.49059902",
+  "name" : "Schodack Island",
+  "beach" : "N",
+  "x" : "-73.77652044",
+  ":@computed_region_wbg7_3whc" : "1403",
+  ":@computed_region_kjdx_g34t" : "2138",
+  "county" : "Alb/Rens",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/146/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.85536367",
+    "needs_recoding" : false,
+    "longitude" : "-73.92004274"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "12",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "307",
+  "category" : "State Park",
+  "y" : "40.85536367",
+  "name" : "Roberto Clemente",
+  "beach" : "N",
+  "x" : "-73.92004274",
+  ":@computed_region_wbg7_3whc" : "649",
+  ":@computed_region_kjdx_g34t" : "2095",
+  "county" : "Bronx",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/140/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.21554025",
+    "needs_recoding" : false,
+    "longitude" : "-75.83623684"
+  },
+  "camp" : "Y",
+  "golf" : "Y",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "945",
+  "category" : "State Park",
+  "y" : "42.21554025",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/20/details.aspx"
+  },
+  "name" : "Chenango Valley",
+  "beach" : "Y",
+  "x" : "-75.83623684",
+  ":@computed_region_wbg7_3whc" : "378",
+  ":@computed_region_kjdx_g34t" : "2033",
+  "county" : "Broome",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/41/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.17805145",
+    "needs_recoding" : false,
+    "longitude" : "-75.42467935"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "940",
+  "category" : "State Park",
+  "y" : "42.17805145",
+  "name" : "Oquaga Creek",
+  "beach" : "Y",
+  "x" : "-75.42467935",
+  ":@computed_region_wbg7_3whc" : "1625",
+  ":@computed_region_kjdx_g34t" : "2033",
+  "county" : "Broome/Delaware",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/27/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.05475752",
+    "needs_recoding" : false,
+    "longitude" : "-78.76855865"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "2",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/12/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "341",
+  "category" : "State Park",
+  "y" : "42.05475752",
+  "name" : "Allegany",
+  "beach" : "Y-M",
+  "x" : "-78.76855865",
+  ":@computed_region_wbg7_3whc" : "1741",
+  ":@computed_region_kjdx_g34t" : "2034",
+  "county" : "Cattaraugus",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/136/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.34170812",
+    "needs_recoding" : false,
+    "longitude" : "-76.69131068"
+  },
+  "camp" : "Y",
+  "golf" : "Y",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "68",
+  "category" : "State Park",
+  "y" : "43.34170812",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/9/details.aspx"
+  },
+  "name" : "Fair Haven Beach",
+  "beach" : "Y-M",
+  "x" : "-76.69131068",
+  ":@computed_region_wbg7_3whc" : "693",
+  ":@computed_region_kjdx_g34t" : "618",
+  "county" : "Cayuga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/12/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.69096898",
+    "needs_recoding" : false,
+    "longitude" : "-76.38800625"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "78",
+  "category" : "State Park",
+  "y" : "42.69096898",
+  "name" : "Fillmore Glen",
+  "beach" : "Y",
+  "x" : "-76.38800625",
+  ":@computed_region_wbg7_3whc" : "662",
+  ":@computed_region_kjdx_g34t" : "618",
+  "county" : "Cayuga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/157/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.71741104",
+    "needs_recoding" : false,
+    "longitude" : "-76.69840928"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "79",
+  "category" : "State Park",
+  "y" : "42.71741104",
+  "name" : "Long Point",
+  "beach" : "Y",
+  "x" : "-76.69840928",
+  ":@computed_region_wbg7_3whc" : "345",
+  ":@computed_region_kjdx_g34t" : "618",
+  "county" : "Cayuga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/170/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.42289079",
+    "needs_recoding" : false,
+    "longitude" : "-79.43141787"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "2",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "203",
+  "category" : "State Park",
+  "y" : "42.42289079",
+  "name" : "Lake Erie",
+  "beach" : "Y",
+  "x" : "-79.43141787",
+  ":@computed_region_wbg7_3whc" : "1697",
+  ":@computed_region_kjdx_g34t" : "2035",
+  "county" : "Chautauqua",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/129/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.17876065",
+    "needs_recoding" : false,
+    "longitude" : "-79.4109114"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "2",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "215",
+  "category" : "State Park",
+  "y" : "42.17876065",
+  "name" : "Long Point",
+  "beach" : "Y",
+  "x" : "-79.4109114",
+  ":@computed_region_wbg7_3whc" : "1694",
+  ":@computed_region_kjdx_g34t" : "2035",
+  "county" : "Chautauqua",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/109/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.04902652",
+    "needs_recoding" : false,
+    "longitude" : "-76.73631727"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "480",
+  "category" : "State Park",
+  "y" : "42.04902652",
+  "name" : "Newtown Battlefield",
+  "beach" : "N",
+  "x" : "-76.73631727",
+  ":@computed_region_wbg7_3whc" : "926",
+  ":@computed_region_kjdx_g34t" : "2036",
+  "county" : "Chemung",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/107/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.51998474",
+    "needs_recoding" : false,
+    "longitude" : "-75.6806338"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "267",
+  "category" : "State Park",
+  "y" : "42.51998474",
+  "name" : "Bowman Lake",
+  "beach" : "Y",
+  "x" : "-75.6806338",
+  ":@computed_region_wbg7_3whc" : "451",
+  ":@computed_region_kjdx_g34t" : "2037",
+  "county" : "Chenango",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/76/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.73334654",
+    "needs_recoding" : false,
+    "longitude" : "-73.42117996"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "3",
+  "category" : "State Park",
+  "y" : "44.73334654",
+  "name" : "Cumberland Bay",
+  "beach" : "Y",
+  "x" : "-73.42117996",
+  ":@computed_region_wbg7_3whc" : "202",
+  ":@computed_region_kjdx_g34t" : "2038",
+  "county" : "Clinton",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/34/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.61786492",
+    "needs_recoding" : false,
+    "longitude" : "-73.61240776"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "5",
+  "category" : "State Park",
+  "y" : "44.61786492",
+  "name" : "Macomb Reservation",
+  "beach" : "Y",
+  "x" : "-73.61240776",
+  ":@computed_region_wbg7_3whc" : "304",
+  ":@computed_region_kjdx_g34t" : "2038",
+  "county" : "Clinton",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/77/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.77840043",
+    "needs_recoding" : false,
+    "longitude" : "-73.38769347"
+  },
+  "nature_center" : "Y",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "13",
+  "category" : "State Park",
+  "y" : "44.77840043",
+  "name" : "Point Au Roche",
+  "beach" : "Y",
+  "x" : "-73.38769347",
+  ":@computed_region_wbg7_3whc" : "202",
+  ":@computed_region_kjdx_g34t" : "2038",
+  "county" : "Clinton",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/30/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.09288182",
+    "needs_recoding" : false,
+    "longitude" : "-73.70588782"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "7",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "520",
+  "category" : "State Park",
+  "y" : "42.09288182",
+  "name" : "Lake Taghkanic",
+  "beach" : "Y-M",
+  "x" : "-73.70588782",
+  ":@computed_region_wbg7_3whc" : "946",
+  ":@computed_region_kjdx_g34t" : "619",
+  "county" : "Columbia",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/38/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.6880051",
+    "needs_recoding" : false,
+    "longitude" : "-73.79543181"
+  },
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "7",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "594",
+  "category" : "State Park",
+  "y" : "41.6880051",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/1/details.aspx"
+  },
+  "name" : "James Baird",
+  "beach" : "N",
+  "x" : "-73.79543181",
+  ":@computed_region_wbg7_3whc" : "1003",
+  ":@computed_region_kjdx_g34t" : "2040",
+  "county" : "Dutchess",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/101/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.07786386",
+    "needs_recoding" : false,
+    "longitude" : "-73.51743928"
+  },
+  "nature_center" : "N",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "7",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "521",
+  "category" : "State Park",
+  "y" : "42.07786386",
+  "name" : "Taconic",
+  "beach" : "Y-M",
+  "x" : "-73.51743928",
+  ":@computed_region_wbg7_3whc" : "962",
+  ":@computed_region_kjdx_g34t" : "619",
+  "county" : "Dutchess",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/83/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.96576594",
+    "needs_recoding" : false,
+    "longitude" : "-78.95310636"
+  },
+  "nature_center" : "Y",
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "1",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/11/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "290",
+  "category" : "State Park",
+  "y" : "42.96576594",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/4/details.aspx"
+  },
+  "name" : "Beaver Island",
+  "beach" : "Y",
+  "x" : "-78.95310636",
+  ":@computed_region_wbg7_3whc" : "526",
+  ":@computed_region_kjdx_g34t" : "2041",
+  "county" : "Erie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/56/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.84638726",
+    "needs_recoding" : false,
+    "longitude" : "-78.86468299"
+  },
+  "nature_center" : "N",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "300",
+  "category" : "State Park",
+  "y" : "42.84638726",
+  "name" : "Buffalo Harbor",
+  "beach" : "N",
+  "x" : "-78.86468299",
+  ":@computed_region_wbg7_3whc" : "34",
+  "county" : "Erie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/191/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.1194168",
+    "needs_recoding" : false,
+    "longitude" : "-79.05874318"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "159",
+  "category" : "State Park",
+  "y" : "43.1194168",
+  "name" : "DeVeaux Woods",
+  "beach" : "N",
+  "x" : "-79.05874318",
+  ":@computed_region_wbg7_3whc" : "169",
+  "county" : "Erie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/11/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.60579936",
+    "needs_recoding" : false,
+    "longitude" : "-79.10185926"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/16/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "301",
+  "category" : "State Park",
+  "y" : "42.60579936",
+  "name" : "Evangola",
+  "beach" : "Y",
+  "x" : "-79.10185926",
+  ":@computed_region_wbg7_3whc" : "529",
+  ":@computed_region_kjdx_g34t" : "2041",
+  "county" : "Erie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/91/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.7938189",
+    "needs_recoding" : false,
+    "longitude" : "-78.85220785"
+  },
+  "nature_center" : "N",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "289",
+  "category" : "State Park",
+  "y" : "42.7938189",
+  "name" : "Woodlawn Beach",
+  "beach" : "Y",
+  "x" : "-78.85220785",
+  ":@computed_region_wbg7_3whc" : "108",
+  ":@computed_region_kjdx_g34t" : "2041",
+  "county" : "Erie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/47/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.91181416",
+    "needs_recoding" : false,
+    "longitude" : "-78.4114923"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "3",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "789",
+  "category" : "State Park",
+  "y" : "42.91181416",
+  "name" : "Darien Lakes",
+  "beach" : "Y",
+  "x" : "-78.4114923",
+  ":@computed_region_wbg7_3whc" : "503",
+  ":@computed_region_kjdx_g34t" : "2086",
+  "county" : "Genesee",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/144/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.35271611",
+    "needs_recoding" : false,
+    "longitude" : "-73.79577523"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "759",
+  "category" : "Marine Facility",
+  "y" : "42.35271611",
+  "name" : "Coxsackie Boat Launch",
+  "beach" : "N",
+  "x" : "-73.79577523",
+  ":@computed_region_wbg7_3whc" : "1177",
+  ":@computed_region_kjdx_g34t" : "2087",
+  "county" : "Greene"
+}
+, {
+  "location" : {
+    "latitude" : "44.16250249",
+    "needs_recoding" : false,
+    "longitude" : "-76.26444427"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "856",
+  "category" : "State Park",
+  "y" : "44.16250249",
+  "name" : "Burnham Point",
+  "beach" : "N",
+  "x" : "-76.26444427",
+  ":@computed_region_wbg7_3whc" : "1479",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/57/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.2034892",
+    "needs_recoding" : false,
+    "longitude" : "-76.19613394"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "856",
+  "category" : "State Park",
+  "y" : "44.2034892",
+  "name" : "Cedar Point",
+  "beach" : "Y",
+  "x" : "-76.19613394",
+  ":@computed_region_wbg7_3whc" : "1511",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/21/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.28176681",
+    "needs_recoding" : false,
+    "longitude" : "-75.99593007"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "847",
+  "category" : "State Park",
+  "y" : "44.28176681",
+  "name" : "Grass Point",
+  "beach" : "Y",
+  "x" : "-75.99593007",
+  ":@computed_region_wbg7_3whc" : "1471",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/139/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.32343021",
+    "needs_recoding" : false,
+    "longitude" : "-75.92971103"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "859",
+  "category" : "State Park",
+  "y" : "44.32343021",
+  "name" : "Keewaydin",
+  "beach" : "N",
+  "x" : "-75.92971103",
+  ":@computed_region_wbg7_3whc" : "1471",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/24/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.37718875",
+    "needs_recoding" : false,
+    "longitude" : "-75.85615854"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "859",
+  "category" : "State Park",
+  "y" : "44.37718875",
+  "name" : "Kring Point",
+  "beach" : "Y",
+  "x" : "-75.85615854",
+  ":@computed_region_wbg7_3whc" : "1610",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/14/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.02844022",
+    "needs_recoding" : false,
+    "longitude" : "-76.21705748"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "848",
+  "category" : "State Park",
+  "y" : "44.02844022",
+  "name" : "Long Point",
+  "beach" : "N",
+  "x" : "-76.21705748",
+  ":@computed_region_wbg7_3whc" : "1620",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/54/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.76329127",
+    "needs_recoding" : false,
+    "longitude" : "-76.20460033"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "853",
+  "category" : "State Park",
+  "y" : "43.76329127",
+  "name" : "Southwick Beach",
+  "beach" : "Y-M",
+  "x" : "-76.20460033",
+  ":@computed_region_wbg7_3whc" : "1575",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/36/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.329238",
+    "needs_recoding" : false,
+    "longitude" : "-76.01544821"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "Y",
+  "golf" : "Y",
+  "region" : "10",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/2/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "847",
+  "category" : "State Park",
+  "y" : "44.329238",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/7/details.aspx"
+  },
+  "name" : "Wellesley Island",
+  "beach" : "Y",
+  "x" : "-76.01544821",
+  ":@computed_region_wbg7_3whc" : "1523",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/52/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.89698048",
+    "needs_recoding" : false,
+    "longitude" : "-76.11801703"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "852",
+  "category" : "State Park",
+  "y" : "43.89698048",
+  "name" : "Westcott Beach",
+  "beach" : "Y-M",
+  "x" : "-76.11801703",
+  ":@computed_region_wbg7_3whc" : "1615",
+  ":@computed_region_kjdx_g34t" : "2089",
+  "county" : "Jefferson",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/90/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.72142461",
+    "needs_recoding" : false,
+    "longitude" : "-73.96205753"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "12",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "894",
+  "category" : "State Park",
+  "y" : "40.72142461",
+  "name" : "East River",
+  "beach" : "N",
+  "x" : "-73.96205753",
+  ":@computed_region_wbg7_3whc" : "889",
+  ":@computed_region_kjdx_g34t" : "2090",
+  "county" : "Kings",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/155/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.69850757",
+    "needs_recoding" : false,
+    "longitude" : "-75.47741546"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "617",
+  "category" : "State Park",
+  "y" : "43.69850757",
+  "name" : "Whetstone Gulf",
+  "beach" : "Y",
+  "x" : "-75.47741546",
+  ":@computed_region_wbg7_3whc" : "571",
+  ":@computed_region_kjdx_g34t" : "623",
+  "county" : "Lewis",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/92/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.64592135",
+    "needs_recoding" : false,
+    "longitude" : "-77.97576922"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "3",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/19/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "740",
+  "category" : "State Park",
+  "y" : "42.64592135",
+  "name" : "Letchworth",
+  "beach" : "N",
+  "x" : "-77.97576922",
+  ":@computed_region_wbg7_3whc" : "321",
+  ":@computed_region_kjdx_g34t" : "2186",
+  "county" : "Liv/Wyo",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/79/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.98148474",
+    "needs_recoding" : false,
+    "longitude" : "-75.84665631"
+  },
+  "nature_center" : "N",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "165",
+  "category" : "State Park",
+  "y" : "42.98148474",
+  "name" : "Chittenango Falls",
+  "beach" : "N",
+  "x" : "-75.84665631",
+  ":@computed_region_wbg7_3whc" : "354",
+  ":@computed_region_kjdx_g34t" : "2092",
+  "county" : "Madison",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/130/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.82553482",
+    "needs_recoding" : false,
+    "longitude" : "-73.95685417"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "12",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "749",
+  "category" : "State Park",
+  "y" : "40.82553482",
+  "name" : "Denny Farrell Riverbank",
+  "beach" : "N",
+  "x" : "-73.95685417",
+  ":@computed_region_wbg7_3whc" : "758",
+  ":@computed_region_kjdx_g34t" : "2095",
+  "county" : "Manhattan",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/93/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.73549893",
+    "needs_recoding" : false,
+    "longitude" : "-74.01174318"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "12",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "749",
+  "category" : "State Park",
+  "y" : "40.73549893",
+  "name" : "Hudson River Park",
+  "beach" : "N",
+  "x" : "-74.01174318",
+  ":@computed_region_kjdx_g34t" : "2095",
+  "county" : "Manhattan",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/185/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.3600913",
+    "needs_recoding" : false,
+    "longitude" : "-77.95509767"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "3",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "547",
+  "category" : "State Park",
+  "y" : "43.3600913",
+  "name" : "Hamlin Beach",
+  "beach" : "Y-M",
+  "x" : "-77.95509767",
+  ":@computed_region_wbg7_3whc" : "235",
+  ":@computed_region_kjdx_g34t" : "2093",
+  "county" : "Monroe",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/20/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.94934485",
+    "needs_recoding" : false,
+    "longitude" : "-74.26757028"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "493",
+  "category" : "State Historic Site",
+  "y" : "42.94934485",
+  "name" : "Schoharie Crossing",
+  "beach" : "N",
+  "x" : "-74.26757028",
+  ":@computed_region_wbg7_3whc" : "1218",
+  ":@computed_region_kjdx_g34t" : "624",
+  "county" : "Montgomery",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/historic-sites/27/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.74751741",
+    "needs_recoding" : false,
+    "longitude" : "-73.45680354"
+  },
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "59",
+  "category" : "State Park",
+  "y" : "40.74751741",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/11/details.aspx"
+  },
+  "name" : "Bethpage",
+  "beach" : "N",
+  "x" : "-73.45680354",
+  ":@computed_region_wbg7_3whc" : "1529",
+  ":@computed_region_kjdx_g34t" : "2094",
+  "county" : "Nassau",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/108/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.682314",
+    "needs_recoding" : false,
+    "longitude" : "-73.64242151"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "62",
+  "category" : "State Park",
+  "y" : "40.682314",
+  "name" : "Hempstead Lake",
+  "beach" : "N",
+  "x" : "-73.64242151",
+  ":@computed_region_wbg7_3whc" : "1457",
+  ":@computed_region_kjdx_g34t" : "2094",
+  "county" : "Nassau",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/31/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.59601085",
+    "needs_recoding" : false,
+    "longitude" : "-73.51642732"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/4/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "62",
+  "category" : "State Park",
+  "y" : "40.59601085",
+  "name" : "Jones Beach",
+  "beach" : "Y-M",
+  "x" : "-73.51642732",
+  ":@computed_region_wbg7_3whc" : "1433",
+  ":@computed_region_kjdx_g34t" : "2094",
+  "county" : "Nassau",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/10/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.67876603",
+    "needs_recoding" : false,
+    "longitude" : "-73.6942502"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "62",
+  "category" : "State Park",
+  "y" : "40.67876603",
+  "name" : "Valley Stream",
+  "beach" : "N",
+  "x" : "-73.6942502",
+  ":@computed_region_wbg7_3whc" : "995",
+  ":@computed_region_kjdx_g34t" : "2094",
+  "county" : "Nassau",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/159/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.26163494",
+    "needs_recoding" : false,
+    "longitude" : "-79.05258585"
+  },
+  "nature_center" : "Y",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/17/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "156",
+  "category" : "State Park",
+  "y" : "43.26163494",
+  "name" : "Fort Niagara",
+  "beach" : "N",
+  "x" : "-79.05258585",
+  ":@computed_region_wbg7_3whc" : "31",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/175/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.27437645",
+    "needs_recoding" : false,
+    "longitude" : "-78.99746851"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "156",
+  "category" : "State Park",
+  "y" : "43.27437645",
+  "name" : "Four Mile Creek",
+  "beach" : "N",
+  "x" : "-78.99746851",
+  ":@computed_region_wbg7_3whc" : "31",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/6/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.36946168",
+    "needs_recoding" : false,
+    "longitude" : "-78.48015886"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "154",
+  "category" : "State Park",
+  "y" : "43.36946168",
+  "name" : "Golden Hill",
+  "beach" : "N",
+  "x" : "-78.48015886",
+  ":@computed_region_wbg7_3whc" : "487",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/143/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.21412115",
+    "needs_recoding" : false,
+    "longitude" : "-79.03992446"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "164",
+  "category" : "State Park",
+  "y" : "43.21412115",
+  "name" : "Joseph Davis",
+  "beach" : "N",
+  "x" : "-79.03992446",
+  ":@computed_region_wbg7_3whc" : "31",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/45/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.13401154",
+    "needs_recoding" : false,
+    "longitude" : "-79.01503815"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "164",
+  "category" : "State Park",
+  "y" : "43.13401154",
+  "name" : "Reservoir",
+  "beach" : "N",
+  "x" : "-79.01503815",
+  ":@computed_region_wbg7_3whc" : "534",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/75/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.12040048",
+    "needs_recoding" : false,
+    "longitude" : "-79.06341797"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "159",
+  "category" : "State Park",
+  "y" : "43.12040048",
+  "name" : "Whirlpool",
+  "beach" : "N",
+  "x" : "-79.06341797",
+  ":@computed_region_wbg7_3whc" : "169",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/105/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.30377729",
+    "needs_recoding" : false,
+    "longitude" : "-78.85560888"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "1",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "131",
+  "category" : "State Park",
+  "y" : "43.30377729",
+  "name" : "Wilson-Tuscarora",
+  "beach" : "Y",
+  "x" : "-78.85560888",
+  ":@computed_region_wbg7_3whc" : "29",
+  ":@computed_region_kjdx_g34t" : "2131",
+  "county" : "Niagara",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/69/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.29096558",
+    "needs_recoding" : false,
+    "longitude" : "-75.42187224"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "980",
+  "category" : "State Park",
+  "y" : "43.29096558",
+  "name" : "Delta Lake",
+  "beach" : "Y",
+  "x" : "-75.42187224",
+  ":@computed_region_wbg7_3whc" : "1390",
+  ":@computed_region_kjdx_g34t" : "625",
+  "county" : "Oneida",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/66/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.17800825",
+    "needs_recoding" : false,
+    "longitude" : "-75.71658659"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "982",
+  "category" : "State Park",
+  "y" : "43.17800825",
+  "name" : "Verona Beach",
+  "beach" : "Y",
+  "x" : "-75.71658659",
+  ":@computed_region_wbg7_3whc" : "425",
+  ":@computed_region_kjdx_g34t" : "625",
+  "county" : "Oneida",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/102/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.9975225",
+    "needs_recoding" : false,
+    "longitude" : "-76.09300044"
+  },
+  "nature_center" : "Y",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/15/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "702",
+  "category" : "State Park",
+  "y" : "42.9975225",
+  "name" : "Clark Reservation",
+  "beach" : "N",
+  "x" : "-76.09300044",
+  ":@computed_region_wbg7_3whc" : "630",
+  ":@computed_region_kjdx_g34t" : "2132",
+  "county" : "Onondaga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/126/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.04697832",
+    "needs_recoding" : false,
+    "longitude" : "-75.9818848"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "Y",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "696",
+  "category" : "State Park",
+  "y" : "43.04697832",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/14/details.aspx"
+  },
+  "name" : "Green Lakes",
+  "beach" : "Y",
+  "x" : "-75.9818848",
+  ":@computed_region_wbg7_3whc" : "621",
+  ":@computed_region_kjdx_g34t" : "2132",
+  "county" : "Onondaga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/172/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.8739501",
+    "needs_recoding" : false,
+    "longitude" : "-76.95454977"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "574",
+  "category" : "State Park",
+  "y" : "42.8739501",
+  "name" : "Seneca Lake",
+  "beach" : "Y",
+  "x" : "-76.95454977",
+  ":@computed_region_wbg7_3whc" : "233",
+  ":@computed_region_kjdx_g34t" : "2144",
+  "county" : "Ont/Sen",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/125/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.36638358",
+    "needs_recoding" : false,
+    "longitude" : "-78.24370249"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "3",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "505",
+  "category" : "State Park",
+  "y" : "43.36638358",
+  "name" : "Lakeside Beach",
+  "beach" : "N",
+  "x" : "-78.24370249",
+  ":@computed_region_wbg7_3whc" : "416",
+  ":@computed_region_kjdx_g34t" : "626",
+  "county" : "Orleans",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/161/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.55566201",
+    "needs_recoding" : false,
+    "longitude" : "-76.19844002"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "235",
+  "category" : "State Park",
+  "y" : "43.55566201",
+  "name" : "Selkirk Shores",
+  "beach" : "Y",
+  "x" : "-76.19844002",
+  ":@computed_region_wbg7_3whc" : "683",
+  ":@computed_region_kjdx_g34t" : "2135",
+  "county" : "Oswego",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/84/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.586584",
+    "needs_recoding" : false,
+    "longitude" : "-75.13246312"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "904",
+  "category" : "State Park",
+  "y" : "42.586584",
+  "name" : "Gilbert Lake",
+  "beach" : "Y",
+  "x" : "-75.13246312",
+  ":@computed_region_wbg7_3whc" : "442",
+  ":@computed_region_kjdx_g34t" : "2136",
+  "county" : "Otsego",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/19/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.79362617",
+    "needs_recoding" : false,
+    "longitude" : "-74.86868392"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "5",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "898",
+  "category" : "State Park",
+  "y" : "42.79362617",
+  "name" : "Glimmerglass",
+  "beach" : "Y",
+  "x" : "-74.86868392",
+  ":@computed_region_wbg7_3whc" : "540",
+  ":@computed_region_kjdx_g34t" : "2136",
+  "county" : "Otsego",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/28/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.74651899",
+    "needs_recoding" : false,
+    "longitude" : "-73.95814962"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "12",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "749",
+  "category" : "State Park",
+  "y" : "40.74651899",
+  "name" : "Gantry Plaza",
+  "beach" : "N",
+  "x" : "-73.95814962",
+  ":@computed_region_kjdx_g34t" : "2095",
+  "county" : "Queens",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/149/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.61786779",
+    "needs_recoding" : false,
+    "longitude" : "-73.41221527"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "152",
+  "category" : "State Park",
+  "y" : "42.61786779",
+  "name" : "Cherry Plain",
+  "beach" : "Y",
+  "x" : "-73.41221527",
+  ":@computed_region_wbg7_3whc" : "1305",
+  ":@computed_region_kjdx_g34t" : "2138",
+  "county" : "Rensselaer",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/173/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.78418998",
+    "needs_recoding" : false,
+    "longitude" : "-73.44286108"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/1/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "128",
+  "category" : "State Park",
+  "y" : "42.78418998",
+  "name" : "Grafton Lakes",
+  "beach" : "Y",
+  "x" : "-73.44286108",
+  ":@computed_region_wbg7_3whc" : "1178",
+  ":@computed_region_kjdx_g34t" : "2138",
+  "county" : "Rensselaer",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/53/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.02642268",
+    "needs_recoding" : false,
+    "longitude" : "-73.91033132"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "8",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "530",
+  "category" : "State Park",
+  "y" : "41.02642268",
+  "name" : "Tallman Mountain",
+  "beach" : "N",
+  "x" : "-73.91033132",
+  ":@computed_region_wbg7_3whc" : "1551",
+  ":@computed_region_kjdx_g34t" : "628",
+  "county" : "Rockland",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/119/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.29900423",
+    "needs_recoding" : false,
+    "longitude" : "-73.99240161"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "8",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/20/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "528",
+  "category" : "State Park",
+  "y" : "41.29900423",
+  "name" : "Bear Mountain",
+  "beach" : "N",
+  "x" : "-73.99240161",
+  ":@computed_region_wbg7_3whc" : "1652",
+  ":@computed_region_kjdx_g34t" : "628",
+  "county" : "Rockland/Orange",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/145/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.23733048",
+    "needs_recoding" : false,
+    "longitude" : "-74.10169996"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "8",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "531",
+  "category" : "State Park",
+  "y" : "41.23733048",
+  "name" : "Harriman",
+  "beach" : "Y-M",
+  "x" : "-74.10169996",
+  ":@computed_region_wbg7_3whc" : "1562",
+  ":@computed_region_kjdx_g34t" : "628",
+  "county" : "Rock/Orange",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/145/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.23321367",
+    "needs_recoding" : false,
+    "longitude" : "-73.7337769"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/7/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "998",
+  "category" : "State Park",
+  "y" : "43.23321367",
+  "name" : "Moreau Lake",
+  "beach" : "Y",
+  "x" : "-73.7337769",
+  ":@computed_region_wbg7_3whc" : "93",
+  ":@computed_region_kjdx_g34t" : "2141",
+  "county" : "Saratoga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/150/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "43.05089145",
+    "needs_recoding" : false,
+    "longitude" : "-73.80393559"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "11",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/21/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "994",
+  "category" : "State Park",
+  "y" : "43.05089145",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/15/details.aspx"
+  },
+  "name" : "Saratoga Spa",
+  "beach" : "N",
+  "x" : "-73.80393559",
+  ":@computed_region_wbg7_3whc" : "147",
+  ":@computed_region_kjdx_g34t" : "2141",
+  "county" : "Saratoga",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/112/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.54799377",
+    "needs_recoding" : false,
+    "longitude" : "-74.41092231"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "151",
+  "category" : "State Park",
+  "y" : "42.54799377",
+  "name" : "Max V. Shaul",
+  "beach" : "N",
+  "x" : "-74.41092231",
+  ":@computed_region_wbg7_3whc" : "1220",
+  ":@computed_region_kjdx_g34t" : "629",
+  "county" : "Schoharie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/94/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.43402454",
+    "needs_recoding" : false,
+    "longitude" : "-74.4611211"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "11",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "172",
+  "category" : "State Park",
+  "y" : "42.43402454",
+  "name" : "Mine Kill",
+  "beach" : "N",
+  "x" : "-74.4611211",
+  ":@computed_region_wbg7_3whc" : "1300",
+  ":@computed_region_kjdx_g34t" : "629",
+  "county" : "Schoharie",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/165/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.36753974",
+    "needs_recoding" : false,
+    "longitude" : "-76.90013376"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "646",
+  "category" : "State Park",
+  "y" : "42.36753974",
+  "name" : "Watkins Glen",
+  "beach" : "Y",
+  "x" : "-76.90013376",
+  ":@computed_region_wbg7_3whc" : "919",
+  ":@computed_region_kjdx_g34t" : "2143",
+  "county" : "Schuyler",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/142/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.89795191",
+    "needs_recoding" : false,
+    "longitude" : "-76.75531185"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "577",
+  "category" : "State Park",
+  "y" : "42.89795191",
+  "name" : "Cayuga Lake",
+  "beach" : "Y",
+  "x" : "-76.75531185",
+  ":@computed_region_wbg7_3whc" : "689",
+  ":@computed_region_kjdx_g34t" : "2144",
+  "county" : "Seneca",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/123/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.61824659",
+    "needs_recoding" : false,
+    "longitude" : "-76.87683054"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "580",
+  "category" : "Marine Facility",
+  "y" : "42.61824659",
+  "name" : "Lodi Point Marine Park",
+  "beach" : "N",
+  "x" : "-76.87683054",
+  ":@computed_region_wbg7_3whc" : "24",
+  ":@computed_region_kjdx_g34t" : "2144",
+  "county" : "Seneca",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/89/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.72549002",
+    "needs_recoding" : false,
+    "longitude" : "-76.9013257"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "578",
+  "category" : "State Park",
+  "y" : "42.72549002",
+  "name" : "Sampson",
+  "beach" : "Y",
+  "x" : "-76.9013257",
+  ":@computed_region_wbg7_3whc" : "376",
+  ":@computed_region_kjdx_g34t" : "2144",
+  "county" : "Seneca",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/154/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.51855953",
+    "needs_recoding" : false,
+    "longitude" : "-77.69296639"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "37",
+  "category" : "State Park",
+  "y" : "42.51855953",
+  "name" : "Stony Brook",
+  "beach" : "Y-M",
+  "x" : "-77.69296639",
+  ":@computed_region_wbg7_3whc" : "228",
+  ":@computed_region_kjdx_g34t" : "2178",
+  "county" : "Steuben",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/118/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.88473357",
+    "needs_recoding" : false,
+    "longitude" : "-75.12323609"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "308",
+  "category" : "State Park",
+  "y" : "44.88473357",
+  "name" : "Coles Creek",
+  "beach" : "Y",
+  "x" : "-75.12323609",
+  ":@computed_region_wbg7_3whc" : "1621",
+  ":@computed_region_kjdx_g34t" : "2140",
+  "county" : "St. Lawrence",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/72/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.49829863",
+    "needs_recoding" : false,
+    "longitude" : "-74.91464273"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "336",
+  "category" : "State Park",
+  "y" : "44.49829863",
+  "name" : "Higley Flow",
+  "beach" : "Y",
+  "x" : "-74.91464273",
+  ":@computed_region_wbg7_3whc" : "1616",
+  ":@computed_region_kjdx_g34t" : "2140",
+  "county" : "St. Lawrence",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/58/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "44.55484146",
+    "needs_recoding" : false,
+    "longitude" : "-75.6805192"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "320",
+  "category" : "State Park",
+  "y" : "44.55484146",
+  "name" : "Jacques Cartier",
+  "beach" : "Y",
+  "x" : "-75.6805192",
+  ":@computed_region_wbg7_3whc" : "1475",
+  ":@computed_region_kjdx_g34t" : "2140",
+  "county" : "St. Lawrence",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/114/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "45.00064012",
+    "needs_recoding" : false,
+    "longitude" : "-74.82735035"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "10",
+  "play" : "Y",
+  "naturecenter_url" : {
+    "url" : "https://parks.ny.gov/environment/nature-centers/5/details.aspx"
+  },
+  ":@computed_region_yamh_8v7k" : "321",
+  "category" : "State Park",
+  "y" : "45.00064012",
+  "name" : "Robert Moses",
+  "beach" : "Y",
+  "x" : "-74.82735035",
+  ":@computed_region_wbg7_3whc" : "1585",
+  ":@computed_region_kjdx_g34t" : "2140",
+  "county" : "St. Lawrence",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/51/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.90999227",
+    "needs_recoding" : false,
+    "longitude" : "-73.26320632"
+  },
+  "nature_center" : "Y-A",
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1014",
+  "category" : "State Park",
+  "y" : "40.90999227",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/13/details.aspx"
+  },
+  "name" : "Alfred E. Smith/Sunken Meadow",
+  "beach" : "Y",
+  "x" : "-73.26320632",
+  ":@computed_region_wbg7_3whc" : "1318",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/37/"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.7262324",
+    "needs_recoding" : false,
+    "longitude" : "-73.336795"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1023",
+  "category" : "State Park",
+  "y" : "40.7262324",
+  "name" : "Belmont Lake",
+  "beach" : "N",
+  "x" : "-73.336795",
+  ":@computed_region_wbg7_3whc" : "1034",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/88/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.63885218",
+    "needs_recoding" : false,
+    "longitude" : "-73.26127359"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1019",
+  "category" : "State Park",
+  "y" : "40.63885218",
+  "name" : "Captree",
+  "beach" : "N",
+  "x" : "-73.26127359",
+  ":@computed_region_wbg7_3whc" : "1033",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/65/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.70866151",
+    "needs_recoding" : false,
+    "longitude" : "-73.16492238"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1019",
+  "category" : "State Park",
+  "y" : "40.70866151",
+  "name" : "Heckscher",
+  "beach" : "Y-M",
+  "x" : "-73.16492238",
+  ":@computed_region_wbg7_3whc" : "1111",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/136/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.01605601",
+    "needs_recoding" : false,
+    "longitude" : "-72.02131304"
+  },
+  "nature_center" : "Y",
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1021",
+  "category" : "State Park",
+  "y" : "41.01605601",
+  "name" : "Hither Hills",
+  "beach" : "Y",
+  "x" : "-72.02131304",
+  ":@computed_region_wbg7_3whc" : "1637",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/122/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.07145028",
+    "needs_recoding" : false,
+    "longitude" : "-71.88138835"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1021",
+  "category" : "State Park",
+  "y" : "41.07145028",
+  "name" : "Montauk Point",
+  "beach" : "N",
+  "x" : "-71.88138835",
+  ":@computed_region_wbg7_3whc" : "1637",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/61/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.89867044",
+    "needs_recoding" : false,
+    "longitude" : "-73.2316962"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1014",
+  "category" : "State Park",
+  "y" : "40.89867044",
+  "name" : "Nissequogue River",
+  "beach" : "N",
+  "x" : "-73.2316962",
+  ":@computed_region_wbg7_3whc" : "1127",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/110/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.12855132",
+    "needs_recoding" : false,
+    "longitude" : "-72.27152525"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1012",
+  "category" : "State Park",
+  "y" : "41.12855132",
+  "name" : "Orient Beach",
+  "beach" : "Y",
+  "x" : "-72.27152525",
+  ":@computed_region_wbg7_3whc" : "1640",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/106/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.62351775",
+    "needs_recoding" : false,
+    "longitude" : "-73.26514244"
+  },
+  "camp" : "N",
+  "golf" : "Y",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1023",
+  "category" : "State Park",
+  "y" : "40.62351775",
+  "golf_url" : {
+    "url" : "https://parks.ny.gov/golf/12/details.aspx"
+  },
+  "name" : "Robert Moses",
+  "beach" : "Y-M",
+  "x" : "-73.26514244",
+  ":@computed_region_wbg7_3whc" : "1033",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/7/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "40.96049996",
+    "needs_recoding" : false,
+    "longitude" : "-72.79457341"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "9",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "1017",
+  "category" : "State Park",
+  "y" : "40.96049996",
+  "name" : "Wildwood",
+  "beach" : "Y",
+  "x" : "-72.79457341",
+  ":@computed_region_wbg7_3whc" : "1432",
+  ":@computed_region_kjdx_g34t" : "2179",
+  "county" : "Suffolk",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/68/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.40402596",
+    "needs_recoding" : false,
+    "longitude" : "-76.51225664"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "708",
+  "category" : "State Park",
+  "y" : "42.40402596",
+  "name" : "Buttermilk Falls",
+  "beach" : "Y-M",
+  "x" : "-76.51225664",
+  ":@computed_region_wbg7_3whc" : "1786",
+  ":@computed_region_kjdx_g34t" : "2181",
+  "county" : "Tompkins",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/151/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.40057564",
+    "needs_recoding" : false,
+    "longitude" : "-76.57954421"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "711",
+  "category" : "State Park",
+  "y" : "42.40057564",
+  "name" : "Robert H. Treman",
+  "beach" : "Y",
+  "x" : "-76.57954421",
+  ":@computed_region_wbg7_3whc" : "1786",
+  ":@computed_region_kjdx_g34t" : "2181",
+  "county" : "Tompkins",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/135/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.54073824",
+    "needs_recoding" : false,
+    "longitude" : "-76.60976708"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "705",
+  "category" : "State Park",
+  "y" : "42.54073824",
+  "name" : "Taughannock Falls",
+  "beach" : "Y",
+  "x" : "-76.60976708",
+  ":@computed_region_wbg7_3whc" : "917",
+  ":@computed_region_kjdx_g34t" : "2181",
+  "county" : "Tompkins",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/62/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "41.28230417",
+    "needs_recoding" : false,
+    "longitude" : "-73.80875691"
+  },
+  "camp" : "N",
+  "golf" : "N",
+  "region" : "7",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "947",
+  "category" : "State Park",
+  "y" : "41.28230417",
+  "name" : "Franklin Delano Roosevelt",
+  "beach" : "N",
+  "x" : "-73.80875691",
+  ":@computed_region_wbg7_3whc" : "1352",
+  ":@computed_region_kjdx_g34t" : "2185",
+  "county" : "Westchester",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/148/details.aspx"
+  }
+}
+, {
+  "location" : {
+    "latitude" : "42.58218255",
+    "needs_recoding" : false,
+    "longitude" : "-77.12858336"
+  },
+  "camp" : "Y",
+  "golf" : "N",
+  "region" : "4",
+  "play" : "Y",
+  ":@computed_region_yamh_8v7k" : "94",
+  "category" : "State Park",
+  "y" : "42.58218255",
+  "name" : "Keuka Lake",
+  "beach" : "Y",
+  "x" : "-77.12858336",
+  ":@computed_region_wbg7_3whc" : "246",
+  ":@computed_region_kjdx_g34t" : "2225",
+  "county" : "Yates",
+  "facility_url" : {
+    "url" : "https://parks.ny.gov/parks/67/details.aspx"
+  }
+}
+ ]

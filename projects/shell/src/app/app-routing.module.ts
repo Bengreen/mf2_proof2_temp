@@ -5,6 +5,7 @@ import { HomeComponent } from './home/home.component';
 import { Test0Component } from './test0/test0.component';
 import { environment } from '../environments/environment';
 import { D3sampleComponent } from './d3sample/d3sample.component';
+import { CrossfilterComponent } from './crossfilter/crossfilter.component';
 // '~shell/src/app/environments/environment';
   // environments/environment';
 
@@ -20,6 +21,10 @@ const routes: Routes = [
       {
         path: 'd3',
         component: D3sampleComponent,
+      },
+      {
+        path: 'crossfilter',
+        component: CrossfilterComponent,
       },
       {
         path: 'mfe1',

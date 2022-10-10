@@ -15,13 +15,15 @@ import { Test0Component } from './test0/test0.component';
 import { SharedModule } from 'shared';
 import { D3sampleComponent } from './d3sample/d3sample.component';
 import { MatGridListModule } from '@angular/material/grid-list';
+import { CrossfilterComponent } from './crossfilter/crossfilter.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     Test0Component,
-    D3sampleComponent
+    D3sampleComponent,
+    CrossfilterComponent
   ],
   imports: [
     BrowserModule,

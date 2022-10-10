@@ -23,6 +23,7 @@
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
     "@types/d3": "^7.4.0",
+    "crossfilter2": "^1.5.4",
     "d3": "^7.6.1",
     "rxjs": "~7.5.0",
     "shared": "file:dist/shared",
